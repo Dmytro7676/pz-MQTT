@@ -1,0 +1,11 @@
+# MQTT Broker (Mosquitto)
+
+## 📌 Опис
+Розгорнуто MQTT-брокер Mosquitto у Docker-контейнері для реалізації publish/subscribe взаємодії.
+
+---
+
+## 🚀 Запуск
+
+```bash
+docker compose up -d
